@@ -6,6 +6,9 @@ Page {
 	Column {
 		padding: "8"
 
+		Image { src: "ei.png" }
+		Spacer {amount: 32}
+
 		Markdown { part: "home.md" }
 		Spacer {amount: 16}
 		
