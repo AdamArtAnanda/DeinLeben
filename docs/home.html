@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css">
 
     <style>
-        /*  basic layout */
+        /* Basic layout */
         body, html {
             height: 100%;
             margin: 0;
@@ -20,19 +20,18 @@
             overflow-x: hidden;
         }
 
-        /* dark theme */
+        /* Dark and Light Theme for page */
         .dark-theme {
             background-color: #181818;
             color: #f8f9fa;
         }
 
-        /* light theme */
         .light-theme {
             background-color: #f8f9fa;
             color: #333;
         }
 
-        /* main container */
+        /* Main container layout */
         .main-container {
             display: flex;
             width: 90%;
@@ -40,7 +39,7 @@
             gap: 50px;
         }
 
-        /* sidebar styling */
+        /* Sidebar styling */
         .sidebar {
             flex: 1;
             display: flex;
@@ -49,7 +48,7 @@
             text-align: left;
         }
 
-        /* tablet mockup */
+        /* Tablet mockup styling */
         .tablet {
             width: 500px;
             height: 800px;
@@ -62,7 +61,7 @@
             overflow: hidden;
         }
 
-        /* screen area */
+        /* Screen area styling */
         .screen {
             width: 100%;
             height: 100%;
@@ -76,13 +75,19 @@
             flex-direction: column;
         }
 
-        /* dark theme for tablet-screen */
-        .dark-theme .screen {
+        /* Dark theme for book content */
+        .book-dark-theme {
             background-color: #333;
             color: #f8f9fa;
         }
 
-        /* book content */
+        /* Light theme for book content */
+        .book-light-theme {
+            background-color: #fff;
+            color: #333;
+        }
+
+        /* Book content */
         .book-content {
             font-size: 1rem;
             line-height: 1.6;
@@ -92,12 +97,12 @@
             max-width: 100%;
         }
 
-        /* hide scrollbar */
+        /* Hide scrollbar for screen */
         .screen::-webkit-scrollbar {
             display: none;
         }
 
-        /* toggle-button styling */
+        /* Theme toggle button styling */
         .theme-toggle-btn {
             position: fixed;
             top: 20px;
@@ -109,16 +114,29 @@
             color: #007bff;
         }
 
-        /* Button-Styles for dark theme */
-        .dark-theme .theme-toggle-btn {
+        /* Book theme toggle button styling */
+        .book-theme-toggle-btn {
+            position: fixed;
+            top: 60px; /* Placed below main theme button */
+            right: 20px;
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: #007bff;
+        }
+
+        /* Button styles for dark theme */
+        .dark-theme .theme-toggle-btn,
+        .dark-theme .book-theme-toggle-btn {
             color: #f8f9fa;
         }
     </style>
 </head>
-<body class="dark-theme"> <!-- start with dark theme -->
+<body class="dark-theme"> <!-- Startet mit Dark Theme -->
 
 <div class="main-container">
-    <!-- left sidebar -->
+    <!-- Left Sidebar -->
     <div class="sidebar">
         <h3>Dein Leben</h3>
         <p>This is the description of the book. Lorem ipsum dolor simit ahem.</p>
@@ -126,9 +144,10 @@
 
     <!-- Tablet Mockup -->
     <div class="tablet">
-        <div class="screen">
+        <div class="screen book-dark-theme" id="bookScreen"> <!-- Standardmäßig das dunkle Buch-Theme aktiv -->
             <div class="book-content">
                 <section class="container">
+                   <section class="container">
 <div class="row">
 <div class="col-md-12">
 <img class="img-fluid" src="assets/images/ei.png"/>
@@ -271,42 +290,109 @@ wird arbeiten zu gehen.</p>
 </div>
 </section>
 
+                </section>
             </div>
         </div>
     </div>
 
-    <!-- right Sidebar -->
+    <!-- Right Sidebar -->
     <div class="sidebar">
         <h3>Related Content</h3>
         <p>Additional informationen and links, for the reader.</p>
     </div>
 </div>
 
-<!-- theme-toggle icon button -->
-<button class="theme-toggle-btn" onclick="toggleTheme()" id="themeIcon">
-    <i class="bi bi-moon-fill"></i>
+<!-- Theme toggle icon button for page theme -->
+<button class="theme-toggle-btn" onclick="togglePageTheme()" id="themeIcon">
+    <i class="bi bi-moon-fill"></i> <!-- Initial icon for Dark Theme -->
+</button>
+
+<!-- Theme toggle icon button for book theme -->
+<button class="book-theme-toggle-btn" onclick="toggleBookTheme()" id="bookThemeIcon">
+    <i class="bi bi-book-half"></i> <!-- Initial icon for Light Book Theme -->
 </button>
 
 <script>
-    // function to change between day and night mode
-    function toggleTheme() {
+
+    function setThemeCookie(theme) {
+        document.cookie = "theme=" + theme + "; path=/; max-age=" + (60 * 60 * 24 * 30); // 30 Tage gültig
+    }
+
+    function setBookThemeCookie(theme) {
+        document.cookie = "bookTheme=" + theme + "; path=/; max-age=" + (60 * 60 * 24 * 30); // 30 Tage gültig
+    }
+
+    function getThemeCookie() {
+        const value = `; ${document.cookie}`;
+        const parts = value.split(`; theme=`);
+        if (parts.length === 2) return parts.pop().split(';').shift();
+    }
+
+    function getBookThemeCookie() {
+        const value = `; ${document.cookie}`;
+        const parts = value.split(`; bookTheme=`);
+        if (parts.length === 2) return parts.pop().split(';').shift();
+    }
+
+    function togglePageTheme() {
         const body = document.body;
         const icon = document.getElementById("themeIcon").querySelector("i");
 
-        // change theme class
         body.classList.toggle('dark-theme');
         body.classList.toggle('light-theme');
 
-        // change icon
         if (body.classList.contains('dark-theme')) {
             icon.classList.remove('bi-sun-fill');
             icon.classList.add('bi-moon-fill');
+            setThemeCookie('dark');
         } else {
             icon.classList.remove('bi-moon-fill');
             icon.classList.add('bi-sun-fill');
+            setThemeCookie('light');
         }
     }
-</script>
 
+    function toggleBookTheme() {
+        const screen = document.getElementById("bookScreen");
+        const bookIcon = document.getElementById("bookThemeIcon").querySelector("i");
+
+        if (screen.classList.contains('book-dark-theme')) {
+            screen.classList.remove('book-dark-theme');
+            screen.classList.add('book-light-theme');
+            bookIcon.classList.remove('bi-book');
+            bookIcon.classList.add('bi-book-half');
+            setBookThemeCookie('book-light');
+        } else {
+            screen.classList.remove('book-light-theme');
+            screen.classList.add('book-dark-theme');
+            bookIcon.classList.remove('bi-book-half');
+            bookIcon.classList.add('bi-book');
+            setBookThemeCookie('book-dark');
+        }
+    }
+
+    window.onload = function() {
+        const theme = getThemeCookie();
+        if (theme === 'light') {
+            document.body.classList.remove('dark-theme');
+            document.body.classList.add('light-theme');
+            document.getElementById("themeIcon").querySelector("i").classList.replace("bi-moon-fill", "bi-sun-fill");
+        } else if (theme === 'dark') {
+            document.body.classList.add('dark-theme');
+            document.getElementById("themeIcon").querySelector("i").classList.replace("bi-sun-fill", "bi-moon-fill");
+        }
+
+        const bookTheme = getBookThemeCookie();
+        const bookScreen = document.getElementById("bookScreen");
+        if (bookTheme === 'book-light') {
+            bookScreen.classList.remove('book-dark-theme');
+            bookScreen.classList.add('book-light-theme');
+            document.getElementById("bookThemeIcon").querySelector("i").classList.replace("bi-book", "bi-book-half");
+        } else if (bookTheme === 'book-dark') {
+            bookScreen.classList.add('book-dark-theme');
+            document.getElementById("bookThemeIcon").querySelector("i").classList.replace("bi-book-half", "bi-book");
+        }
+    };
+</script>
 </body>
 </html>
