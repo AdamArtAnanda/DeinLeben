@@ -1,171 +1,89 @@
 # Dein Leben
+Eine frei erfundene Geschichte.
+von Adam Art Ananda und anderen Autoren, 
+die im spätere Verlauf noch genannt werden.
 
-### Disclamer
-Dieses Kapitel basiert auf der Kurzgeschichte ***The Egg*** (Das Ei) von *Andy Weir*. 
-Da wir in der Kürze keine Genehmigung des Autors einholen konnten, 
-haben wir den Text als freie Adaption umgeschrieben. 
-Diese Interpretation dient als inspirierende Einleitung und Hommage, 
-um das Thema unseres Buches zu unterstreichen.
+## Die Begegnung
 
+Du blinzelst und spürst, wie eine leise, allumfassende Ruhe dich umgibt. Der Schmerz 
+und die Erschöpfung, die dein Leben zuletzt geprägt haben, sind verschwunden. 
+Du fühlst dich leicht, freier als je zuvor. Und dann bemerkst du: Du bist nicht allein.
 
-## Anfang
-Du warst auf dem Heimweg als du gestorben bist.
-Es war ein Auto-Unfall. Nichts speziell bemerkenswertes, aber dennoch tödlich.
-Du hast eine Frau und zwei Kinder hinterlassen. Die Notärzte haben ihr Bestes gegeben, 
-um Dich zu retten, aber ohne Erfolg.
-Dein Körper war so zerschmettert, dass Du so ohnehin besser dran bist, vertrau mir.
-Und dann hast Du mich getroffen.
-“Was… ist passiert?” Hast Du gefragt. “Wo bin ich?”
-“Du bist gestorben.” Sagte ich, faktisch gesprochen. Kein Grund für Schön-Rederei.
-“Da war ein… ein LKW der ins Schleudern geraten ist…”
-“Japp” sagte Ich.
-“Ich … ich bin tot?”
-“Japp. Aber mach Dir nichts daraus. Jeder stirbt.” sagte Ich.
-Du hast Dich umgeschaut. Da war Nichts. Nur Du und Ich. “Wo sind wir hier?” 
-Hast Du gefragt. “Ist das hier das Leben nach dem Tod?”
-“Mehr oder weniger” sagte Ich.
-“Bist Du Gott?” Fragtest Du.
-“Japp.” Erwiderte Ich. “Ich bin Gott.”
-“Meine Kinder… meine Frau” sagtest Du.
-“Was ist mit Ihnen?”
-“Geht es Ihnen gut?”
-“Genau das sehe ich gerne” sagte Ich “Du bist gerade gestorben und Deine Hauptsorge gilt 
-Deiner Familie. Das ist eine gute Sache.”
-Du sahst mich mit Faszination an. Für Dich sah ich nicht aus wie Gott. 
-Ich sah aus wie irgendein Mann. Oder wahrscheinlich eine Frau. 
-Vielleicht wie eine undeutliche Autoritätsperson. 
-Mehr wie ein Grundschullehrer als wie der Allmächtige.
+„Willkommen“, spricht eine sanfte Stimme, die wie eine Melodie aus dem Nichts zu kommen 
+scheint. „Es ist vorbei. Du hast es geschafft.“
 
-“Mach Dir keine Sorgen,” sagte Ich “Mit Ihnen wird alles gut. 
-Deine Kinder werden sich an Dich als umfassend perfekt erinnern. 
-Sie hatten keine Zeit, Dich geringzuschätzen. Deine Frau wird nach außen hin weinen, 
-aber heimlich erlöst sein. Um fair zu sein, deine Ehe war dabei auseinanderzufallen. 
-Wenn es Dir ein Trostpflaster ist, sie wird sich sehr schuldig fühlen, 
-dass sie sich so erlöst fühlt.”
+Verwirrt suchst du nach der Quelle dieser Stimme, doch sie ist überall und nirgends zugleich.
+Nach einem Moment des Schweigens setzt die Stimme fort: „Ich bin es, 
+den manche von euch ‘Gott’ nennen, andere ‘das Universum’, und wieder andere einfach 
+‘Liebe’. Ich bin das, was immer war und immer sein wird. Und nun bist du wieder bei mir.“
 
-“Oh,” sagtest Du. “Also, was passiert jetzt? Komme ich in den Himmel oder in die Hölle 
-oder irgendwas?”
+Dein Verstand, benommen von der Leere, beginnt zu begreifen. Du bist gestorben. 
+Dein Körper, ausgebrannt von Stress und Unruhe, hat aufgegeben, und doch … fühlst du dich 
+lebendiger als je zuvor.
 
-“Nichts dergleichen,” sagte Ich. “Du wirst reinkarniert.”
+„Also, das war’s dann?“, fragst du schließlich. „Alles, was ich getan habe, alles, 
+was ich erreicht habe … ist das jetzt einfach vorbei?“
 
-“Ah,” sagtest Du. “Dann hatten also die Hindus recht.”
+Die Stimme lacht leise, ein Ton voller Güte und Verständnis. 
+„Nein. Das Leben ist niemals einfach vorbei. Dein Weg endet nicht hier. 
+In gewisser Weise ist dies nur ein Übergang. Ein Moment der Reflexion, 
+bevor du entscheidest, wie es weitergeht.“
 
-“Alle Religionen haben auf ihre eigene Weise Recht” sagte Ich. “Geh mit mir ein Stück.”
+„Ich entscheide, wie es weitergeht?“ Ungläubigkeit schwingt in deiner Stimme mit. 
+„Aber … mein Leben fühlte sich nie so an, als ob ich etwas entscheiden könnte. 
+Es war einfach … ein Ablauf. Aufgaben, Pflichten, Erwartungen. Wo war da meine Wahl?“
 
-Du folgtest mir als wir durch die Leere spazierten. “Wo gehen wir hin?”
+Die Stimme hält inne, als würde sie lächeln. „Du hast immer eine Wahl, 
+auch wenn sie dir oft verborgen bleibt. Manche Inkarnationen bringen schwere Lasten 
+und Herausforderungen mit sich, die wie ein Sturm alles andere überdecken. Doch hier, 
+in diesem Raum, hast du Klarheit. Freiheit. Und ich werde dir jede Entscheidung ermöglichen, 
+die du treffen möchtest.“
 
-“Nirgendwo spezielles,” sage Ich “Es ist einfach nett ein bisschen zu laufen, 
-während wir sprechen.”
+„Was bedeutet das genau?“ Du spürst Neugier, gepaart mit einer noch ungewohnten Leichtigkeit.
+„Ich darf entscheiden, was … oder wer ich als Nächstes werde?“
 
-“Also, worum geht´s überhaupt?” Fragtest Du. “Wenn ich wiedergeboren werde, 
-bin ich ein unbeschriebenes Blatt, oder? Ein Baby. Also werden alle meine Erfahrungen 
-und alles was ich in meinem Leben getan habe, nicht von Bedeutung sein.”
+„Ja,“ bestätigt die Stimme. „Du kannst dich wieder in die Welt senden, 
+so wie du bist, oder du kannst etwas völlig Neues wählen. Du kannst ein anderes Leben führen,
+einen anderen Ort, eine andere Zeit. Du kannst jemand sein, der das Leben leicht nimmt, 
+oder jemand, der es auf andere Weise gestaltet. Du kannst lernen, heilen, erschaffen … 
+oder einfach sein.“
 
-“Nein!” sagte Ich. “Du trägst alles Wissen und Erfahrungen von all Deinen vergangenen 
-Leben in Dir. Du erinnerst Dich jetzt einfach nicht an sie.”
+Ein Schauer durchfährt dich, eine Ahnung von Möglichkeiten, 
+die sich wie ein unendliches Netz vor dir entfalten. Du fühlst den Drang, 
+Fragen zu stellen – Fragen nach dem „Warum“ und „Wie“ und „Weshalb“. 
+Doch bevor du sprichst, setzt die Stimme fort:
 
-Ich hielt an und fasste Dir an die Schulter “Deine Seele ist großartiger, 
-schöner und gigantischer als Du Dir irgendwie vorstellen könntest. 
-Ein menschlicher Geist kann nur einen winzigen Teil von dem erfassen, was er ist. 
-Es ist als ob man seinen Finger in ein Glass Wasser steckt, um zu sehen ob es 
-heiß oder kalt ist. Du steckst einen winzigen Teil von Dir selbst in das Gefäß, 
-und wenn Du ihn wieder herausziehst hast Du alle Erfahrungen davon erhalten.”
+„Vergiss nicht, dass deine Entscheidungen Auswirkungen haben. 
+Jedes Leben, das du wählst, prägt das Gewebe der Welt. 
+Du bist nicht nur Beobachter, sondern Mitgestalter. 
+Ein Leben, das du bewusst wählst, ist eine Möglichkeit, das Ganze zu formen.“
 
-“Du warst die letzten 48 Jahre in einem Menschen, also hast Du Dich noch nicht 
-ausgebreitet und den Rest Deines immensen Bewusstseins gefühlt. 
-Wenn wir lange genug hier bleiben würden, würdest Du anfangen Dich an alles zu erinnern. 
-Aber darin liegt kein Sinn, dass zwischen den Leben zu tun.”
+Du atmest tief ein – oder vielmehr, du hast das Gefühl, einzuatmen, 
+obwohl du längst körperlos bist. „Was, wenn ich nicht zurückkehren will? 
+Was, wenn ich es satt habe, in der Welt zu kämpfen?“
 
-“Wie oft wurde ich denn bereits reinkarniert?”
+Die Stimme ist voller Mitgefühl. „Dann kannst du ruhen. Es gibt keinen Zwang, keine Eile. 
+Du kannst verweilen, so lange du möchtest, oder dich auf eine Weise mit allem verbinden, 
+die das Leben selbst übersteigt. Doch weißt du … viele finden im Laufe der Zeit den Wunsch, 
+zurückzukehren. Ein neues Kapitel zu schreiben. Eine weitere Erfahrung zu machen, 
+diesmal bewusster, in dem Wissen, dass sie jede Sekunde frei wählen können.“
 
-“Oh, viele Male. Viele, viele Male. Und in vielen verschiedenen Leben.” sagte Ich. 
-“Dieses mal wirst Du eine chinesische Bäuerin, 540 n. Chr.”
+Du lässt die Worte auf dich wirken. Die Freiheit, die Wahl, 
+alles neu zu beginnen – mit dem Wissen, dass du nicht bloß Zuschauer, 
+sondern auch Schöpfer bist. Der Gedanke ist faszinierend und beängstigend zugleich.
 
-“Warte, was?” hast Du gestammelt “Du schickst mich zurück in der Zeit?”
+„Und wenn ich zurückgehe?“, fragst du. „Wie werde ich mich daran erinnern? 
+Wie weiß ich, dass ich diesmal wirklich die Wahl habe?“
 
-“Nunja, technisch gesehen, schon. Zeit, so wie Du sie kennst, existiert nur in Deinem 
-Universum. Die Dinge laufen anders, da wo ich herkomme.”
+Ein tiefer Frieden durchdringt die Stimme. 
+„Die Erinnerung wird verblassen, doch das Wissen bleibt. 
+Du wirst die Freiheit spüren, selbst wenn du sie nicht immer bewusst erkennst. 
+Jeder Mensch trägt eine Spur von mir in sich – eine Spur, die ihm flüstert, 
+dass er mehr ist, als er glaubt. Höre auf dieses Flüstern, wann immer du kannst.“
 
-“Wo kommst Du her?” Sagtest Du.
-
-“Also sicherlich,” Erklärte Ich “Komme ich irgendwo her. Irgendwo anders. 
-Und es gibt andere wie mich. Ich weiß Du möchtest wissen, wie es dort ist – 
-aber ehrlich gesagt würdest Du es nicht verstehen.”
-
-“Oh,” sagtest Du, etwas niedergeschlagen. “Aber warte mal. 
-Wenn ich wiedergeboren werde, zu anderen Plätzen in der Zeit, könnte ich doch 
-irgendwann mal mit meinem selbst interagiert haben?”
-
-“Klar. Passiert ständig. Und dadurch, dass beide Lebensspannen nur über sich selbst 
-bewusst sind, würdest Du gar nicht wissen dass es passiert.”
-
-“Und was ist dann der Grund für das alles?”
-
-“Ernsthaft?” frage Ich. “Ernsthaft? Du fragst mich nach dem Sinn des Lebens? Ist dass 
-nicht ein bisschen stereotypisch?”
-
-“Nun, es ist eine angemessene Frage”
-
-Ich sah Dir in die Augen. “Der Sinn des Lebens, der Grund warum ich dieses ganze 
-Universum erschaffen habe, ist damit Du heranreifst.”
-
-“Du meinst die Menschheit? Du willst das wir reifen?”
-
-“Nein, nur Du. Ich habe dieses gesamte Universum für Dich erschaffen. Mit jedem neuen 
-Leben dass du lebst, reifst Du heran und wirst zu einem größeren und großartigeren 
-Intellekt.”
-
-“Nur Ich? Was ist mit allen anderen?”
-
-“Es gibt keine anderen” sagte Ich. “In diesem Universum gibt es nur Dich und mich.”
-
-Du starrst mich leeren Augen an. “Aber all die Menschen auf der Erde…”
-
-“Alles nur Du. Verschiedene Inkarnationen von Dir.”
-
-“Warte. Ich bin alle!?”
-
-“Jetzt hast Du es.” sagte Ich mit einem gratulierenden Klaps auf den Rücken.
-
-“Ich bin jeder Mensch der jemals gelebt hat?”
-
-“Oder der jemals leben wird, ja.”
-
-“Ich bin Abraham Lincoln?”
-
-“Und du bist auch John Wilkes Booth.” fügte ich hinzu.
-
-“Ich bin Hitler?” fragtest Du entsetzt.
-
-“Und die Millionen die er umgebracht hat.”
-
-“Ich bin Jesus?”
-
-“Und jeder der ihm gefolgt ist.”
-
-Du fielst in Stille.
-
-“Jedesmal, wenn Du jemanden schikaniert hast,” sagte ich “hast Du Dich selber schikaniert. 
-Jeden Akt der Freundlichkeit, hast Du dir selber getan. Jeder glückliche und traurige 
-Moment der jemals von einem Menschen erfahren wurde, wurde von Dir erfahren.”
-
-Du dachtest eine lange Zeit nach.
-
-“Warum?” fragtest Du mich. “Warum das alles?”
-
-“Weil Du eines Tages, wie ich sein wirst. Weil es das ist, was Du bist. Du bist einer 
-von meiner Art. Du bist mein Kind.”
-
-“Whoa,” sagtest Du, skeptisch. “Du meinst, ich bin ein Gott?”
-
-“Nein. Noch nicht. Du bist ein Fötus. Du wächst noch. Wenn Du jedes menschliche Leben 
-der gesamten Zeit gelebt hast, wirst Du genug gewachsen sein, um geboren zu werden.”
-
-“Also ist das gesamte Universum… es ist nur ein…”
-
-“Ein Ei.” antwortete Ich. “Jetzt ist für Dich an der Zeit, dein nächstes Leben zu leben.”
-
-Und ich schickte Dich auf Deinen Weg.
+Du blickst in die Unendlichkeit und erkennst, dass alles möglich ist. 
+Eine Wahl öffnet sich, klarer und leuchtender als je zuvor. 
+Und tief in dir spürst du: Du bist bereit.
 
 ---
 
