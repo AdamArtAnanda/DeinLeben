@@ -5,7 +5,6 @@ Page {
 	
 	Column {
 		padding: "8"
-		padding: "8"
 
 		Image { src: "rainbowwarrior.png" }
 		Spacer {amount: 32}
