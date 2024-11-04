@@ -1,9 +1,14 @@
 Page {
 	title: "Verfassung"
+	padding: "8"
+	scrollable: "true"
 
-	Markdown {
-		part: "verfassung.md"
+	Column {
+		padding: "8"
+		Markdown {
+			part: "verfassung.md"
+		}
+		Spacer{amount: 8}
+		Button {label: "Habs mir anders überlegt" link: "page:home"}
 	}
-
-	Button {label: "Habs mir anders überlegt" link: "page:home"}
 }

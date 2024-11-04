@@ -9,7 +9,7 @@ Page {
 		Image { src: "ei.png" }
 		Spacer {amount: 32}
 
-		Markdown { part: "home.md" }
+		Markdown { part: "home.md"}
 		Spacer {amount: 16}
 		
 		Markdown {

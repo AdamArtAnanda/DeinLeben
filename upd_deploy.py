@@ -21,30 +21,45 @@ import os
 import re
 from datetime import datetime
 
+"""Add file entries to the deployment descriptor."""
 
-"""add file to the deploment descriptor"""
 def update_deployment(app_sml_path, deployment_data):
     with open(app_sml_path, 'r') as file:
         app_sml_content = file.read()
 
+    # Check if the file ends with a closing brace and remove it temporarily
+    ends_with_brace = app_sml_content.rstrip().endswith('}')
+    if ends_with_brace:
+        app_sml_content = app_sml_content.rstrip()[:-1].rstrip()  # Remove the final brace
+
+    # Match the deployment section and ensure it starts and ends correctly
     deployment_section_regex = re.compile(r"// deployment start.*?// deployment end", re.DOTALL)
 
+    # Create the deployment block content
     deployment_block = f"""// deployment start - don't edit here
 Deployment {{
 {deployment_data}
 }}
 // deployment end"""
 
+    # Replace or add the deployment block
     if deployment_section_regex.search(app_sml_content):
+        # Replace existing deployment section
         app_sml_content = deployment_section_regex.sub(deployment_block, app_sml_content)
     else:
-        app_sml_content = app_sml_content.rstrip('}') + '\n' + deployment_block + '\n}'
+        # Append if not found
+        app_sml_content = app_sml_content + '\n' + deployment_block
 
+    # Re-add the final brace if it was there initially
+    if ends_with_brace:
+        app_sml_content += '\n}'
+
+    # Write back the modified content
     with open(app_sml_path, 'w') as file:
         file.write(app_sml_content)
 
 
-"""gets a list of files and there last change date"""
+"""Generate a list of files and their last modified date for deployment data."""
 def generate_deployment_data(type, base_path, exclude_files=None):
     if exclude_files is None:
         exclude_files = []
@@ -56,8 +71,10 @@ def generate_deployment_data(type, base_path, exclude_files=None):
                 file_path = os.path.relpath(os.path.join(dirpath, filename), base_path)
                 mod_time = os.path.getmtime(os.path.join(dirpath, filename))
                 formatted_time = datetime.utcfromtimestamp(mod_time).strftime('%Y.%m.%d %H.%M.%S')
+                # Append each entry in the correct format
                 deployment_entries.append(f'  File {{ path: "{file_path}" time: "{formatted_time}" type: "{type}" }}')
 
+    # Return formatted entries as a single string
     return "\n".join(deployment_entries)
 
 
@@ -65,26 +82,25 @@ def update():
     base_path = os.getcwd()
     app_sml_path = os.path.join(base_path, 'app.sml')
 
-    pages_path = os.path.join(base_path, 'pages')
-    parts_path = os.path.join(base_path, 'parts')
-    images_path = os.path.join(base_path, 'images')
-    sounds_path = os.path.join(base_path, 'sounds')
-    videos_path = os.path.join(base_path, 'videos')
-    textures_path = os.path.join(base_path, 'textures')
-    models_path = os.path.join(base_path, 'models')
+    # Paths for various types of deployment data
+    paths = {
+        "page": os.path.join(base_path, 'pages'),
+        "part": os.path.join(base_path, 'parts'),
+        "image": os.path.join(base_path, 'images'),
+        "sound": os.path.join(base_path, 'sounds'),
+        "video": os.path.join(base_path, 'videos'),
+        "texture": os.path.join(base_path, 'textures'),
+        "model": os.path.join(base_path, 'models'),
+    }
 
-    deployment_data = generate_deployment_data("page", pages_path, exclude_files=['.DS_Store'])
-    deployment_data += "\n" + generate_deployment_data("part", parts_path, exclude_files=['.DS_Store'])
-    deployment_data += "\n" + generate_deployment_data("image", images_path, exclude_files=['.DS_Store'])
-    deployment_data += "\n" + generate_deployment_data("sound", sounds_path, exclude_files=['.DS_Store'])
-    deployment_data += "\n" + generate_deployment_data("video", videos_path, exclude_files=['.DS_Store'])
-    deployment_data += "\n" + generate_deployment_data("texture", textures_path, exclude_files=['.DS_Store'])
-    deployment_data += "\n" + generate_deployment_data("model", models_path, exclude_files=['.DS_Store'])
+    # Collect deployment data for all paths and types
+    deployment_data = ""
+    for data_type, path in paths.items():
+        deployment_data += generate_deployment_data(data_type, path, exclude_files=['.DS_Store']) + "\n"
 
     print("Updating app.sml with deployment files...")
-    update_deployment(app_sml_path, deployment_data)
+    update_deployment(app_sml_path, deployment_data.strip())
 
 
 if __name__ == "__main__":
     update()
-
