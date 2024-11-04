@@ -1,5 +1,5 @@
 # Verfassung
-Autor: Ralph Boes | Peter Weber
+Autor: Ralph | Peter
 
 ## Einleitung
 Dumtidum

@@ -1,5 +1,5 @@
 Page {
-	title:"verfassung"
+	title: "Verfassung"
 
 	Markdown {
 		part: "verfassung.md"

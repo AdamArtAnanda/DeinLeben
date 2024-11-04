@@ -1,9 +1,10 @@
 App {
   smlVersion: "1.0"
-  name: "Das Ei "
+  name: "Dein Leben"
   version: "1.0"
-  id: "at.crowdware.ei.Das Ei "
+  id: "at.crowdware.life"
   icon: "icon.png"
+  description: "This is the description of the book. Lorem ipsum dolor simit ahem."
 
   Navigation {
     type: "HorizontalPager"

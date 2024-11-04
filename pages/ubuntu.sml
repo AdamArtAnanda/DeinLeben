@@ -1,5 +1,5 @@
 Page {
-	title:"rainbow"
+	title: "Ubuntu"
 
 	Markdown {
 		part: "ubuntu.md"

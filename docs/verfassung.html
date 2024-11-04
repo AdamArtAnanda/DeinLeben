@@ -3,26 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><section class="container">
-<div class="row">
-<div class="col-md-12">
-<h1 id="verfassung">Verfassung</h1>
-<p>Autor: Ralph Boes | Peter Weber</p>
-<h2 id="einleitung">Einleitung</h2>
-<p>Dumtidum
-Hier könnte eigentlich noch viel stehen...</p>
-<p>...mal sehen , ob wir dafür einen Autor finden.</p>
-<p>Raaaahhhhaaalf?</p>
-<p>Hm, oder Peeeeteeeeer?</p>
-<a href="home.html" class="btn btn-primary w-100 mt-3">Habs mir anders überlegt</a>
-</div>
-</div>
-</section>
-</title>
+    <title>Dein Leben - Verfassung</title>
     <!-- Bootstrap CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css">
+
     <style>
-        /* Prevent overflow on body */
+        /*  basic layout */
         body, html {
             height: 100%;
             margin: 0;
@@ -30,10 +18,38 @@ Hier könnte eigentlich noch viel stehen...</p>
             align-items: center;
             justify-content: center;
             overflow-x: hidden;
-            background-color: #f8f9fa;
         }
 
-        /* Scaled-up tablet container */
+        /* dark theme */
+        .dark-theme {
+            background-color: #181818;
+            color: #f8f9fa;
+        }
+
+        /* light theme */
+        .light-theme {
+            background-color: #f8f9fa;
+            color: #333;
+        }
+
+        /* main container */
+        .main-container {
+            display: flex;
+            width: 90%;
+            max-width: 1800px;
+            gap: 50px;
+        }
+
+        /* sidebar styling */
+        .sidebar {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            text-align: left;
+        }
+
+        /* tablet mockup */
         .tablet {
             width: 500px;
             height: 800px;
@@ -43,15 +59,15 @@ Hier könnte eigentlich noch viel stehen...</p>
             background-color: #444;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             display: flex;
-            overflow: hidden; /* Enforce boundary */
+            overflow: hidden;
         }
 
-        /* Inner screen area with scroll control */
+        /* screen area */
         .screen {
             width: 100%;
             height: 100%;
             overflow-y: auto;
-            overflow-x: hidden; /* Disable horizontal scroll */
+            overflow-x: hidden;
             border-radius: 20px;
             background-color: #fff;
             padding: 20px;
@@ -60,33 +76,63 @@ Hier könnte eigentlich noch viel stehen...</p>
             flex-direction: column;
         }
 
-        /* Content area with strict wrapping */
+        /* dark theme for tablet-screen */
+        .dark-theme .screen {
+            background-color: #333;
+            color: #f8f9fa;
+        }
+
+        /* book content */
         .book-content {
             font-size: 1rem;
             line-height: 1.6;
-            color: #333;
             white-space: normal;
             word-wrap: break-word;
             overflow-wrap: break-word;
-            max-width: 100%; /* Force content to respect container width */
+            max-width: 100%;
         }
 
-        /* Hide scrollbar for clean look */
+        /* hide scrollbar */
         .screen::-webkit-scrollbar {
             display: none;
         }
+
+        /* toggle-button styling */
+        .theme-toggle-btn {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: #007bff;
+        }
+
+        /* Button-Styles for dark theme */
+        .dark-theme .theme-toggle-btn {
+            color: #f8f9fa;
+        }
     </style>
 </head>
-<body>
+<body class="dark-theme"> <!-- start with dark theme -->
 
-<div class="tablet">
-    <div class="screen">
-        <div class="book-content">
-            <section class="container">
+<div class="main-container">
+    <!-- left sidebar -->
+    <div class="sidebar">
+        <h3>Dein Leben</h3>
+        <p>This is the description of the book. Lorem ipsum dolor simit ahem.</p>
+    </div>
+
+    <!-- Tablet Mockup -->
+    <div class="tablet">
+        <div class="screen">
+            <div class="book-content">
+                <section class="container">
 <div class="row">
 <div class="col-md-12">
 <h1 id="verfassung">Verfassung</h1>
-<p>Autor: Ralph Boes | Peter Weber</p>
+<p>Autor: Ralph | Peter</p>
 <h2 id="einleitung">Einleitung</h2>
 <p>Dumtidum
 Hier könnte eigentlich noch viel stehen...</p>
@@ -98,9 +144,42 @@ Hier könnte eigentlich noch viel stehen...</p>
 </div>
 </section>
 
+            </div>
         </div>
     </div>
+
+    <!-- right Sidebar -->
+    <div class="sidebar">
+        <h3>Related Content</h3>
+        <p>Additional informationen and links, for the reader.</p>
+    </div>
 </div>
+
+<!-- theme-toggle icon button -->
+<button class="theme-toggle-btn" onclick="toggleTheme()" id="themeIcon">
+    <i class="bi bi-moon-fill"></i>
+</button>
+
+<script>
+    // function to change between day and night mode
+    function toggleTheme() {
+        const body = document.body;
+        const icon = document.getElementById("themeIcon").querySelector("i");
+
+        // change theme class
+        body.classList.toggle('dark-theme');
+        body.classList.toggle('light-theme');
+
+        // change icon
+        if (body.classList.contains('dark-theme')) {
+            icon.classList.remove('bi-sun-fill');
+            icon.classList.add('bi-moon-fill');
+        } else {
+            icon.classList.remove('bi-moon-fill');
+            icon.classList.add('bi-sun-fill');
+        }
+    }
+</script>
 
 </body>
 </html>

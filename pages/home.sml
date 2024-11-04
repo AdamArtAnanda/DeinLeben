@@ -1,5 +1,5 @@
 Page {
-	titel: "Home"
+	title: "Anfang"
 	padding: "8"
 	scrollable: "true"
 
