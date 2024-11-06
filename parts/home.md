@@ -1,10 +1,9 @@
 # Dein Leben
-Eine frei erfundene Geschichte.
+Eine frei erfundene Geschichte
 von Adam Art Ananda und anderen Autoren, 
 die im spätere Verlauf noch genannt werden.
 
 ## Die Begegnung
-
 Du blinzelst und spürst, wie eine leise, allumfassende Ruhe dich umgibt. Der Schmerz 
 und die Erschöpfung, die dein Leben zuletzt geprägt haben, sind verschwunden. 
 Du fühlst dich leicht, freier als je zuvor. Und dann bemerkst du: Du bist nicht allein.
@@ -87,4 +86,4 @@ Und tief in dir spürst du: Du bist bereit.
 
 ---
 
-So wähle nun bitte Deinen Weg.
+So wähle nun bitte Deinen Weg.!
