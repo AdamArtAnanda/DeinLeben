@@ -1,4 +1,4 @@
-# Verfassung
+# Unsere Verfassung
 Autor: Ralph | Peter
 
 ## Einleitung

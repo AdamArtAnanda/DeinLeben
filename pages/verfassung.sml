@@ -1,5 +1,5 @@
 Page {
-	title: "Verfassung"
+	title: "Unsere Verfassung"
 	padding: "8"
 	scrollable: "true"
 
