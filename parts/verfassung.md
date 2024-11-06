@@ -2,12 +2,15 @@
 Autor: Ralph | Peter
 
 ## Einleitung
-Dumtidum
-Hier könnte eigentlich noch viel stehen...
+Hier könnte eigentlich noch viel mehr stehen...
 
 ...mal sehen , ob wir dafür einen Autor finden.
 
-Raaaahhhhaaalf?
+Raaaahhhhaaalph?
 
 
 Hm, oder Peeeeteeeeer?
+
+Auf jeden Fall geht es hier um eine tolle Idee, die mit unserem Grundgesetz und unser 
+Befreiung zu tun hat. 
+Ich selber habe dabei auch mitgewirkt...
