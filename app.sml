@@ -41,4 +41,20 @@ App {
 		outlineVariant: "#4F4539"
 		scrim: "#000000"
 	}
+// deployment start - don't edit here
+Deployment {
+File { path: "verfassung.sml" time: "2024.11.06 18.19.06" type: "page" }
+  File { path: "ubuntu.sml" time: "2024.11.05 19.12.36" type: "page" }
+  File { path: "distropie.sml" time: "2024.11.05 19.12.38" type: "page" }
+  File { path: "home.sml" time: "2024.11.05 19.12.39" type: "page" }
+  File { path: "ubuntu.md" time: "2024.11.05 10.31.52" type: "part" }
+  File { path: "home.md" time: "2024.11.06 18.05.36" type: "part" }
+  File { path: "distropie.md" time: "2024.11.05 10.31.55" type: "part" }
+  File { path: "verfassung.md" time: "2024.11.06 18.11.21" type: "part" }
+  File { path: "icon.png" time: "2024.11.03 12.53.02" type: "image" }
+  File { path: "rainbowwarrior.png" time: "2024.11.04 12.12.48" type: "image" }
+  File { path: "ei.png" time: "2024.11.03 18.10.10" type: "image" }
+  File { path: "bella_iguana.png" time: "2024.11.05 10.36.27" type: "image" }
+}
+// deployment end
 }
