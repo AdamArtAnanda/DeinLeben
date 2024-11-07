@@ -10,16 +10,7 @@ App {
 	icon: "icon.png"
 	deployDirHtml: "/Users/art/Ebooks/DeinLeben/docs/"
 
-	Navigation {
-		type: "HorizontalPager"
 
-		Item {page: "home"}
-		Item {page: "verfassung"}
-		Item {page: "distropie"}
-		Item {page: "ubuntu"}
-		
-	}
-	
 	Theme {
 		primary: "#FFB951"
 		onPrimary: "#452B00"
