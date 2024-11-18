@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dein Leben - Spielregeln</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css">
+
+    <style>
+        /* Basic layout */
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow-x: hidden;
+        }
+
+        /* Dark and Light Theme for page */
+        .dark-theme {
+            background-color: #181818;
+            color: #f8f9fa;
+        }
+
+        .light-theme {
+            background-color: #f8f9fa;
+            color: #333;
+        }
+
+        /* Main container layout */
+        .main-container {
+            display: flex;
+            width: 90%;
+            max-width: 1800px;
+            gap: 50px;
+        }
+
+        /* Sidebar styling */
+        .sidebar {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            text-align: left;
+        }
+
+        /* Tablet mockup styling */
+        .tablet {
+            width: 500px;
+            height: 800px;
+            border: 16px solid #333;
+            border-radius: 30px;
+            padding: 10px;
+            background-color: #444;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            display: flex;
+            overflow: hidden;
+        }
+
+        /* Screen area styling */
+        .screen {
+            width: 100%;
+            height: 100%;
+            overflow-y: auto;
+            overflow-x: hidden;
+            border-radius: 20px;
+            background-color: #fff;
+            padding: 20px;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Dark theme for book content */
+        .book-dark-theme {
+            background-color: #333;
+            color: #f8f9fa;
+        }
+
+        /* Light theme for book content */
+        .book-light-theme {
+            background-color: #fff;
+            color: #333;
+        }
+
+        /* Book content */
+        .book-content {
+            font-size: 1rem;
+            line-height: 1.6;
+            white-space: normal;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            max-width: 100%;
+        }
+
+        /* Hide scrollbar for screen */
+        .screen::-webkit-scrollbar {
+            display: none;
+        }
+
+        /* Theme toggle button styling */
+        .theme-toggle-btn {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: #007bff;
+        }
+
+        /* Book theme toggle button styling */
+        .book-theme-toggle-btn {
+            position: fixed;
+            top: 60px; /* Placed below main theme button */
+            right: 20px;
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: #007bff;
+        }
+
+        /* Button styles for dark theme */
+        .dark-theme .theme-toggle-btn,
+        .dark-theme .book-theme-toggle-btn {
+            color: #f8f9fa;
+        }
+    </style>
+</head>
+<body class="dark-theme"> <!-- Startet mit Dark Theme -->
+
+<div class="main-container">
+    <!-- Left Sidebar -->
+    <div class="sidebar">
+        <h3>Dein Leben</h3>
+        <p>Mit diesem Buch möchten wir Dir die Geschichte deines Lebens erzählen. 
+	Du kannst während des Lesens deine eigene Geschichte erleben, denn Du hast die Wahl. 
+	In diesem Buch wirken mehrere Autoren mit und geben dir einige Möglichkeiten zur Auswahl,
+	in welche Richtung wir weiter gehen könnten als Menschheit. 
+	Du entscheidest welchen Weg Du gehen willst. Und dieses Buch hilft Dir dabei, 
+	Entscheidungen zu treffen. Lass Dich von uns überraschen.
+
+	Möchtest Du Deinen ganz eigenen Weg hier beschreiben, dann melde Dich bitte bei uns.</p>
+    </div>
+
+    <!-- Tablet Mockup -->
+    <div class="tablet">
+        <div class="screen book-dark-theme" id="bookScreen"> <!-- Standardmäßig das dunkle Buch-Theme aktiv -->
+            <div class="book-content">
+                <section class="container">
+                   <section class="container">
+<div class="row">
+<div class="col-md-12">
+<img class="img-fluid" src="assets/images/gesetzbuch.png"/>
+<div style="margin-top: 20px;"></div>
+<h2 id="spielregeln">Spielregeln</h2>
+<p>Da ich nun erkannt habe, das alles nur ein Spiel ist, nenne ich Gesetze mal Spielregeln.
+Das Wort Gesetz wirkt so, als wären die Worte gesetzt. Also so was wie in Stein gemeißelt.
+Quasi verbindlich.
+Und ja, solange wir das Spiel spielen, ist es verbindlich.
+Solange ich noch Bürgergeld bekomme, das ja den anderen Spielern abgenommen wurde, gehöre ich noch zu den Spielern.
+Aber dies könnte man ganz einfach ändern.
+Sucht mal nach UBUNTU von Michael Tellinger. Der beschreibt das ganz gut. Die leben dort in einer Gemeinschaft, in der es kein Geld mehr gibt, kein Tauschen und kein Handel. Nur nach Außen wird dort gehandelt, denn die bauen 3 x so viel Nahrung an, wie sie selber benötigen und geben die Überschüsse sehr günstig an die Nachbarn ab.
+Normalerweise könnten die die Nahrung auch verschenken, aber ein paar Tauschmittel sind nützlich, um zum Beispiel Werkzeuge und Material zu erwerben, das sie selber nicht herstellen können.</p>
+<p>Wenn ich aber rein bin. Und von dem System keinen Nutzen mehr ziehe, dann kann ich meine eigenen Spielregeln machen.
+Ein Farmer sagte mir mal, er dürfe seinen Kompost nicht zum Düngen nutzen, denn da ist Gift drinne.
+Denn Menschlicher Kompost enthält Schwermetalle, Quecksilber, Pestizide, Medikamente usw.
+Wir Menschen aber dürfen das alles in uns reinstopfen.
+Merkste was?</p>
+<p>Das meinte ich mit rein. Wenn ich also selber Obst und Gemüse anbaue, dann sollte ich den Kompost eventuell noch ein paar Wochen als Sondermüll entsorgen. Sorry, wenn ich da eventuell ein bisschen übertreibe.
+Später ist der Kompost natürlich wieder sehr gut zum Düngen geeignet.</p>
+<p>Nun aber zurück zu deren Spielregeln.
+Natürlich werde ich mich weiter so gut wie es geht an die mir beswussten Spielregeln halten. Dies gilt zum Beispiel im Strassenverkehr. Wenn ich jetzt anfange, dem Spieler in grün zu erklären, warum denn mein Auto keine Nummernschilder hat und warum ich meinen Versicherungsnachweis mit der Hand geschrieben habe, dann würde das auch meine kostbare Zeit kosten.
+&quot;Hiermit versichere ich, daß ich im Falle eines Unfalles, für den Schaden meines Unfallgegners aufkommen werde.&quot;</p>
+<p>So könnte ich es ja aufgeschrieben haben und schon wäre ich versichert.
+Nun denken diese Spieler in grün aber etwas anders als wir.</p>
+<p>Ein super Beispiel hat mein Bruder Bauchi mal gebracht, denn er wurde gefilmt, wie er mit einem Spieler in grün diskutiert hat, warum er denn Kennzeichen aus Terrania am Wohnmobil hat und keine amtlichen Kennzeichen der Behörde.
+Dieses Kennzeichen hat all die Bedingungen erfüllt, und gingen mit deren Spielregeln konform.
+Man konnte seine Nummer bei Gooooogle suchen und hat die Fahrzeugdaten und den Halter finden können.
+Nur eine versicherung hatte er nicht.
+Ich dachte bereits mal über das Gründen einer Versicherung und einer Bank nach, aber lass man mal lieber den König vom KRD machen.
+Das wäre dann ja wieder etwas nach den ihren Spielregel und da möchte ich ja von Abstand nehmen.
+Also wähle ich das kleinere Übel und lasse mein Fahrzeug irgendwo zu, um nicht aufzufallen.
+Es gibt aber auch noch andere Beispiele...
+Jemand sagte mir mal, das ein anderer schon jahrelang ein nicht zugelassenes Auto fährt.
+Derjenige ist sicherlich schon in einem höheren Bewusstsein wie ich und schon lange raus aus dem Spiel.
+Man kann doch irgendwann auch versichern, das man schon solange in der Abgeschiedenheit lebt, das man deren Spielregeln gar nicht kennt. Es wird ja grad jetzt in Europa so viel an den Gesetzen herumgeschraubt, so dass man diese als Aussteiger gar nicht kennen kann.</p>
+<p>Andere Spielregeln sind dann zu beachten, wenn man zum Beispiel fliegen möchte, also mit einer Verkehrsmaschine. Aber brauchen wir das wirklich. Kann man nicht auch segeln? Müssen wir wirklich ganz schnell von A nach B fliegen?
+Mein Bewusstsein hatte immer Angst vorm Fliegen. Wahrscheinlich ganz schön clever von mir. Weil wir dann viel zu schnell unterwegs sind und unser Körper damit Probleme haben könnte. Ich sage nur Jetlag.</p>
+<p>Was gibt es an diesen Spielregeln noch zu beachten?
+Einige von den Gesetzen finden wir auch im Yoga unter Ahimsa wieder. Diese machen natürlich Sinn. &quot;Füge niemanden Schaden zu.&quot;
+So steht es auch schon in der Strassenverkehrsordnung. Das gilt für mich weiterhin. Und wenn wir mit unserem Bewusstsein voll und ganz im Hier und Jetzt sind, dann werden auch die Chemtrails da im Außen aufhören, denn die benötigt es in unserem eigenen Spiel nicht mehr und damit verschwinden sie aus unseren Gedanken und wir manifestieren sie nicht mehr ins Außen.
+Auch werden sich nach und nach die Grenzen auflösen, weil sie für unser eigenes Spiel nicht mehr benötigt werden. Wir denken nicht mehr an sie und schon manifestieren wir sie nicht mehr.
+Hierzu muss ich dann noch mal anmerken, das ich leider noch nicht viel Erfahrung mit diesen Grenzen habe. Denn sie waren ja schon mal weg weil wir nun in der EU sind, wurden dann aber erneut besetzt, wegen dem Schnupfen.
+Aber ich konnte selbige bereits ohne Probleme passieren, obwohl ich nur ein 5-Tages-Kennzeichen hatte, dieses bereits seit mehreren Monaten abgelaufen war und ich das Auto zu dem es gehörte getauscht hatte.
+Ich hatte ein Wohnmobil, das auf einem 30 Jahre alten Citrön basierte und habe mir dann einen Peugeot zugelegt, der vor 30 Jahren noch baugleich war mit Citrön und Fiat war. Ich konnte dann einfach den Kühlergrill und das Lenkrad tauschen und hatte wieder ein Citrön. Bitte nicht nachmachen, wenn du Dich nicht trauen solltest. Du mußt für so eine Aktion bereits in einer höheren Schwingung sein, und vor allen Dingen keine Angst haben, erwischt zu werden.</p>
+<p>Übrigens erwischt wurde ich erst in Österreich, nachdem ich in Portugal gestartet war.
+Man lies mich aber weiterfahren, weil die keinen Bock auf mich hatten. Das Delikt, nach deren Spielregeln wäre ja so wieso eines in Deutschland und nicht in Österreich.
+Meine Motivation meine Freunde in Österreich zu besuchen war um vieles größer als meine Angst, erwischt zu werden.
+Auch kam ich in eine Situation die man als Zwickmühle sehen könnte. Ich war in Tirol und da die Tiroler die Massnahmen für das C-Problem logischerweise nicht so ernst nahmen, wurden so von ihrem eigenen Militär umzingelt und ich kam nicht mehr aus Tirol raus ohne einen Test zu machen.
+Ich bin dann umgedreht und mußte erst mal Meditieren um eine Lösung zu finden.
+Danach bin ich einen anderen Weg aus Tirol rausgefahren und habe dem Soldaten erklärt, das ich mich im Transit von Portugal nach Wien befinde und er lies mich passieren.
+Wohlgemerkt...das Fahrzeug war ohne Zulassung, aber die Menschen dort waren ein wenig abgelenkt.</p>
+<p>Später habe ich dann die Portugiesischen Kennzeichen angebaut und habe mir im Falle einer Kontroll überlegt, meine Papiere nicht finden zu können und ich sie mir wohl oder übel vom Tüv neu ausstellen lassen muss.
+Das war zumindest mal nicht gelogen und ich konnte weiter ohne Angst bleiben.</p>
+<p>Dann wollte ich von Wien über Prag nach Berlin fahren. Bin aber ohne Test nicht weit gekommen und mußte an der Grenze wieder umkehren. Nun hing ich zwischen zwei Ländern, denn die Österreicher wollten mich auch nicht mehr reinlassen.
+Da half mir dann meine Ader zur Diplomatie. Ich sagte, &quot;Hör mal, ich komme grade aus Wien und komme nicht nach Prag rein, ich will aber eigentlich auch nicht nach Österreich sondern nach Deutschland. Bin also im Transit&quot;
+Merkt euch den Begriff &quot;Transit&quot;, der hat zumindest bei mir funktioniert.</p>
+<p>So nun fahre ich so im Norden von Österreich und nehme den erstbesten Grenzübergang nach Deutschland und...
+...da stand keiner...der war unbewacht... Die haben wohl alle Zöllner auf den Autobahnen gebraucht, denn da haben die so richtig kontrolliert.</p>
+<p>Also ganz aus meinem Kopf sind die Grenzen noch nicht, aber wenn man etwas Manifestationskraft nutz, dann gehts eigentlich ganz einfach.</p>
+<p>Es gibt da ein tolles Video zu dem Thema kollektive Manifestation.<br />
+Es geht da um preditive programming.</p>
+<p>Das sagt ChatGPT dazu:</p>
+<h2 id="kernelemente-von-predictive-programming">Kernelemente von Predictive Programming:</h2>
+<ol>
+<li>Vorbereitung des Unterbewusstseins:
+Die Theorie besagt, dass das wiederholte Zeigen von bestimmten Szenarien (z. B. Katastrophen, Pandemien, politischen Umstürzen) das Unterbewusstsein der Menschen daran gewöhnt. Wenn ein solches Ereignis eintritt, erscheint es weniger schockierend oder überraschend.</li>
+<li>Manipulation und Kontrolle:
+Laut den Befürwortern dieser Theorie könnte predictive programming von Eliten oder Regierungen eingesetzt werden, um gesellschaftliche Akzeptanz für drastische Maßnahmen zu schaffen, wie etwa Überwachungsstaaten oder militärische Interventionen.</li>
+<li>Beispiele:
+•	Filme wie “Contagion” (2011): Oft wird argumentiert, dass der Film die COVID-19-Pandemie vorhergesagt habe.
+•	Die Simpsons: Diese Serie wird häufig als Beispiel genannt, weil bestimmte Szenen angeblich Ereignisse wie die Präsidentschaft von Donald Trump oder technische Entwicklungen vorweggenommen haben.
+•	Science-Fiction-Filme: Themen wie KI, Cyberkriege oder Transhumanismus werden in der Popkultur häufig behandelt und könnten laut der Theorie auf zukünftige Entwicklungen vorbereiten.</li>
+<li>Psychologische Grundlage:
+Einige Theorien stützen sich auf Prinzipien aus der Psychologie, insbesondere auf kognitive Dissonanz und Priming-Effekte. Durch Priming könnten Menschen konditioniert werden, bestimmte Ereignisse eher als realistisch oder unausweichlich wahrzunehmen.</li>
+</ol>
+<a href="spiel_sucht.html" class="btn btn-primary w-100 mt-3">Spielsucht</a>
+<div style="margin-top: 20px;"></div>
+<a href="home.html" class="btn btn-primary w-100 mt-3">Nimm mich vom Spielfeld</a>
+</div>
+</div>
+</section>
+
+                </section>
+            </div>
+        </div>
+    </div>
+
+    <!-- Right Sidebar -->
+    <div class="sidebar">
+        <h3>Informationen</h3>
+        <p>
+            Dieses Buch wurde mit dem <a target="_blank" href="https://nocode.crowdware.at/">NoCodeDesigner</a> erstellt.<br>
+            Der NoCodeDesigner ist ein Desktop-Tool, das Ihnen hilft, eBooks zu erstellen.<br>
+            Diese eBooks können als EPUB3 exportiert werden, die dann beispielsweise bei Amazon veröffentlicht werden können.<br>
+            Es kann auch als Website veröffentlicht werden, wie diese Seite.<br>
+            Und Sie können Ihr Buch auch als Android-App veröffentlichen, in die Sie auch Videos, Ton, Schaltflächen, 3D-Objekte usw. integrieren können.
+        </p>
+    </div>
+</div>
+
+<!-- Theme toggle icon button for page theme -->
+<button class="theme-toggle-btn" onclick="togglePageTheme()" id="themeIcon">
+    <i class="bi bi-moon-fill"></i> <!-- Initial icon for Dark Theme -->
+</button>
+
+<!-- Theme toggle icon button for book theme -->
+<button class="book-theme-toggle-btn" onclick="toggleBookTheme()" id="bookThemeIcon">
+    <i class="bi bi-book-half"></i> <!-- Initial icon for Light Book Theme -->
+</button>
+
+<script>
+
+    function setThemeCookie(theme) {
+        document.cookie = "theme=" + theme + "; path=/; max-age=" + (60 * 60 * 24 * 30); // 30 Tage gültig
+    }
+
+    function setBookThemeCookie(theme) {
+        document.cookie = "bookTheme=" + theme + "; path=/; max-age=" + (60 * 60 * 24 * 30); // 30 Tage gültig
+    }
+
+    function getThemeCookie() {
+        const value = `; ${document.cookie}`;
+        const parts = value.split(`; theme=`);
+        if (parts.length === 2) return parts.pop().split(';').shift();
+    }
+
+    function getBookThemeCookie() {
+        const value = `; ${document.cookie}`;
+        const parts = value.split(`; bookTheme=`);
+        if (parts.length === 2) return parts.pop().split(';').shift();
+    }
+
+    function togglePageTheme() {
+        const body = document.body;
+        const icon = document.getElementById("themeIcon").querySelector("i");
+
+        body.classList.toggle('dark-theme');
+        body.classList.toggle('light-theme');
+
+        if (body.classList.contains('dark-theme')) {
+            icon.classList.remove('bi-sun-fill');
+            icon.classList.add('bi-moon-fill');
+            setThemeCookie('dark');
+        } else {
+            icon.classList.remove('bi-moon-fill');
+            icon.classList.add('bi-sun-fill');
+            setThemeCookie('light');
+        }
+    }
+
+    function toggleBookTheme() {
+        const screen = document.getElementById("bookScreen");
+        const bookIcon = document.getElementById("bookThemeIcon").querySelector("i");
+
+        if (screen.classList.contains('book-dark-theme')) {
+            screen.classList.remove('book-dark-theme');
+            screen.classList.add('book-light-theme');
+            bookIcon.classList.remove('bi-book');
+            bookIcon.classList.add('bi-book-half');
+            setBookThemeCookie('book-light');
+        } else {
+            screen.classList.remove('book-light-theme');
+            screen.classList.add('book-dark-theme');
+            bookIcon.classList.remove('bi-book-half');
+            bookIcon.classList.add('bi-book');
+            setBookThemeCookie('book-dark');
+        }
+    }
+
+    window.onload = function() {
+        const theme = getThemeCookie();
+        if (theme === 'light') {
+            document.body.classList.remove('dark-theme');
+            document.body.classList.add('light-theme');
+            document.getElementById("themeIcon").querySelector("i").classList.replace("bi-moon-fill", "bi-sun-fill");
+        } else if (theme === 'dark') {
+            document.body.classList.add('dark-theme');
+            document.getElementById("themeIcon").querySelector("i").classList.replace("bi-sun-fill", "bi-moon-fill");
+        }
+
+        const bookTheme = getBookThemeCookie();
+        const bookScreen = document.getElementById("bookScreen");
+        if (bookTheme === 'book-light') {
+            bookScreen.classList.remove('book-dark-theme');
+            bookScreen.classList.add('book-light-theme');
+            document.getElementById("bookThemeIcon").querySelector("i").classList.replace("bi-book", "bi-book-half");
+        } else if (bookTheme === 'book-dark') {
+            bookScreen.classList.add('book-dark-theme');
+            document.getElementById("bookThemeIcon").querySelector("i").classList.replace("bi-book-half", "bi-book");
+        }
+    };
+</script>
+</body>
+</html>

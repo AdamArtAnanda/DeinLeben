@@ -1,17 +1,17 @@
 Page {
-	title: "Das Spiel"
+	title: "Was ist das Spiel"
 	padding: "8"
 	scrollable: "true"
 	
 	Column {
 		padding: "8"
 
-		Image {src: "game.png"}
+		Image { src: "skylinegreen.png" }
 		Spacer{amount: 8}
 		Markdown {
-			part: "spiel_einleitung.md"
+			part: "spiel_was_ist_das_spiel.md"
 		}
-		Button {label: "Was ist das Spiel?" link: "page:spiel_was_ist_das_spiel"}
+		Button {label: "Warum spielen alle mit?" link: "page:spiel_warum"}
 		Spacer{amount: 8}
 		Button {label: "Nimm mich vom Spielfeld" link: "page:home"}
 	}

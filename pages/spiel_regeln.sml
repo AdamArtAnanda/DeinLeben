@@ -1,17 +1,16 @@
 Page {
-	title: "Das Spiel"
+	title: "Spielregeln"
 	padding: "8"
 	scrollable: "true"
 	
 	Column {
 		padding: "8"
-
-		Image {src: "game.png"}
+		Image { src: "gesetzbuch.png" }
 		Spacer{amount: 8}
 		Markdown {
-			part: "spiel_einleitung.md"
+			part: "spiel_regeln.md"
 		}
-		Button {label: "Was ist das Spiel?" link: "page:spiel_was_ist_das_spiel"}
+		Button {label: "Spielsucht" link: "page:spiel_sucht"}
 		Spacer{amount: 8}
 		Button {label: "Nimm mich vom Spielfeld" link: "page:home"}
 	}

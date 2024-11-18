@@ -1,6 +1,7 @@
 # Dein Leben
-Eine frei erfundene Geschichte
-von Adam Art Ananda und anderen Autoren, 
+Eine frei erfundene Geschichte inspiriert 
+durch das Buch "The egg" (Das Ei) von Andy Weir
+erdacht von Adam Art Ananda und anderen Autoren, 
 die im spätere Verlauf noch genannt werden.
 
 ## Die Begegnung
@@ -47,8 +48,7 @@ einen anderen Ort, eine andere Zeit. Du kannst jemand sein, der das Leben leicht
 oder jemand, der es auf andere Weise gestaltet. Du kannst lernen, heilen, erschaffen … 
 oder einfach sein.“
 
-Ein Schauer durchfährt dich, eine Ahnung von Möglichkeiten, 
-die sich wie ein unendliches Netz vor dir entfalten. Du fühlst den Drang, 
+Ein Schauer durchfährt dich, eine Ahnung von Möglichkeiten, die sich wie ein unendliches Netz vor dir entfalten. Du fühlst den Drang, 
 Fragen zu stellen – Fragen nach dem „Warum“ und „Wie“ und „Weshalb“. 
 Doch bevor du sprichst, setzt die Stimme fort:
 
