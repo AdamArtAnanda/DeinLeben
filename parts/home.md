@@ -1,8 +1,16 @@
-# Dein Leben
+# Spiel des Lebens
 Eine frei erfundene Geschichte inspiriert 
-durch das Buch "The egg" (Das Ei) von Andy Weir
-erdacht von Adam Art Ananda und anderen Autoren, 
+durch das Buch "The egg" (Das Ei) von Andy Weir,
+erdacht von Adam Art Ananda und geschrieben von ihm und anderen Autoren, 
 die im spätere Verlauf noch genannt werden.
+
+Ziel dieses Buches ist es Dir das Spiel des Lebens näher zu bringen und mal eine kleine Anleitung zu geben.
+Die Autoren versuchen so authentisch wie möglich zu sein.
+Einige Autoren sind aber auch Träumer. Und von denen benötigen wir auf der Erde noch viel viel mehr.
+Willste mitmachen?
+Melde Dich bei [artanidos@gmail.com](mailto:artanidos@gmail.com).
+Da wir Autoren ja clever sind ist das Buch kostenlos, würde ansonsten Strafsteuern kosten, du kannst uns aber gerne anderweitig unterstützen. 
+Du kannst den einzelnen Autor ja gerne mal fragen, was er grad benötigt.
 
 ## Die Begegnung
 Du blinzelst und spürst, wie eine leise, allumfassende Ruhe dich umgibt. Der Schmerz 
@@ -86,4 +94,4 @@ Und tief in dir spürst du: Du bist bereit.
 
 ---
 
-So wähle nun bitte Deinen Weg.!
+So wähle nun bitte Deinen Weg.

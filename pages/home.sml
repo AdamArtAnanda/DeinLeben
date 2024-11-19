@@ -1,5 +1,5 @@
 Page {
-	title: "Distropie"
+	title: "Spiel des Lebens"
 	padding: "8"
 	scrollable: "true"
 	
