@@ -10,7 +10,7 @@ Page {
 		Markdown {
 			part: "spiel_warum.md"
 		}
-		Button {label: "Spielregeln?" link: "page:spiel_regeln"}
+		Button {label: "Spielregeln" link: "page:spiel_regeln"}
 		Spacer{amount: 8}
 		Button {label: "Nimm mich vom Spielfeld" link: "page:home"}
 	}

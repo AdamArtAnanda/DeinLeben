@@ -1,16 +1,17 @@
 Page {
-	title: "Spielregeln"
+	title: "Spielstrafen"
 	padding: "8"
 	scrollable: "true"
 	
 	Column {
 		padding: "8"
-		Image { src: "gesetzbuch.png" }
+		Image { src: "geldstrafe.png" }
 		Spacer{amount: 8}
 		Markdown {
-			part: "spiel_regeln.md"
+			part: "spiel_strafe.md"
 		}
-		Button {label: "Spielstrafen" link: "page:spiel_strafe"}
+		Spacer{amount: 8}
+		Button {label: "Spielsucht" link: "page:spiel_sucht"}
 		Spacer{amount: 8}
 		Button {label: "Nimm mich vom Spielfeld" link: "page:home"}
 	}
