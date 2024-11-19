@@ -75,6 +75,32 @@
             flex-direction: column;
         }
 
+        /* Mobile-specific styling: Fullscreen content */
+        @media (max-width: 768px) {
+            .main-container {
+                flex-direction: column; /* Vertikale Anordnung */
+                align-items: center; /* Zentriert den Inhalt */
+                gap: 20px; /* Abstand zwischen den Abschnitten */
+            }
+
+            .sidebar:first-of-type {
+                order: -1; /* Verschiebt die linke Sidebar nach oben */
+                width: 100%; /* Breite auf 100% setzen */
+                text-align: center; /* Text zentrieren (optional) */
+            }
+
+            .tablet {
+                order: 0; /* Tablet bleibt in der Mitte */
+                width: 100%; /* Füllt die Breite des Bildschirms aus */
+            }
+
+            .sidebar:last-of-type {
+                order: 1; /* Verschiebt die rechte Sidebar nach unten */
+                width: 100%; /* Breite auf 100% setzen */
+                text-align: center; /* Text zentrieren (optional) */
+            }
+        }
+
         /* Dark theme for book content */
         .book-dark-theme {
             background-color: #333;
