@@ -37,7 +37,7 @@ Page {
 				Wenn das aber der richtige Weg ist, dann weißt Du, was Du zu tun hast."
 		}
 		Spacer{amount: 16}
-		Button {label: "Zur Abstimmung" link: "web:https://www.unsere-verfassung.de"}
+		Button {label: "Zur Abstimmung" link: "web:https://www.unsere-verfassung.de" }
 		Spacer{amount: 16}
 		Button {label: "Habs mir anders überlegt" link: "page:home"}
 
