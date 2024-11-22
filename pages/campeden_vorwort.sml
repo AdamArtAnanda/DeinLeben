@@ -10,5 +10,8 @@ Page {
 		Markdown { part: "campeden_vorwort.md"}
 		Spacer{amount: 8}
 		Button {label: "Beginn" link: "page:campeden_beginn"}
+		Spacer{amount: 8}
+		Button {label: "Schick mich zurück" link: "page:home"}
+		
 	}
 }
