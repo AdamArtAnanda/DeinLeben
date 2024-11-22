@@ -5,7 +5,9 @@ Page {
 	
 	Column {
 		padding: "8"
-		
+
+		Image {src: "game.png"}
+		Spacer{amount: 8}
 		Markdown {
 			part: "spiel_einleitung.md"
 		}

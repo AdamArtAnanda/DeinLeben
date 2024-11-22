@@ -55,3 +55,16 @@ Und deshalb zahlst Du viele Strafen, wenn Du diese Dinge benutzt oder besitz.
 
 Eigentlich ist dieses Spiel sehr clever.
 Nur die meisten Spieler sind dies nicht, aber das wollen wir mit dieser Anleitung ja nun ändern. 
+
+Hier noch ein kleiner Nachtrag für uns Künstler.
+Wenn wir unsere Kunstwerke verkaufen, dann verkaufen wir unsere Seele.
+Angenommen ich singe ein Lied und poste es auf TikTok, um damit Geld zu verdienen dann gebe ich die Rechte an dem Lied bzw an meiner Person ab.
+Die KI kann mich dann erfassen und imitieren.
+Dann kann nur noch die KI damit Geld verdienen, bzw. der Betreiber.
+Wenn ich aber lediglich auf der Strasse spiele, dann erreiche ich richtige Menschen und diese können mich erreichen.
+Nur auf der Strasse findet ein Energiefluss von Mensch zu Mensch statt und damit meinte ich nicht den Geldfluss.
+Du weißt wovon ich spreche.
+Würde ich im Stadion spielen, dann könnte viel zu viel Ernergie fließen und eventuell auch Geld in die falschen Hände.
+Da dürfen wir aber differenzieren, ob ich eine Message an die Menschheit zu verkünden habe, wie es Bob Marley tat oder ob ich einfach nur einen Schlage daher singe ohne ihn zu fühlen.
+Ich persönlich mag den Gedanken, der mit Simple Man verbreitet wird.
+Tue etwas das Du liebst und kannst. Vergess die Lust auf das Geld der Reichen, alles was du benötigst ist bereits in deiner Seele. 

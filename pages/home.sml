@@ -14,10 +14,12 @@ Page {
 		Spacer{amount: 8}
 		Markdown {
 			text: "**Ich mache weiter wie bisher.** 
-			Du traust unser Regierung, glaubst alles, was Du in der Schule gelernt hast. Möchtest weiterhin einmal jährlich deine Booster-Spritze bekommen."
+			Du traust Deiner Regierung, glaubst alles, was Du in der Schule gelernt hast. 
+			Möchtest weiterhin einmal jährlich deine Booster-Spritze bekommen. 
+			Oder Du möchtest wissen, warum wir die Dinge so wahrnehmen, wie sie nun mal sind."
 		}
 		Spacer{amount: 8}
-		Button {label: "Ich mache weiter wie bisher" link: "page:distropie"}
+		Button {label: "Einleitung: Das Spiel des Lebens" link: "page:spiel_einleitung"}
 		Spacer{amount: 8}
 		Markdown {
 			text: "**Du würdest gerne die direkte Demokratie einführen.** 
@@ -28,10 +30,10 @@ Page {
 		Spacer{amount: 8}
 		Markdown {
 			text: "**Du möchtest im Paradies in Freiheit leben.** 
-			Er würde gerne so frei und friedlich wie mögliche leben. 
+			Wer würde noch gerne so frei und friedlich wie möglich leben? 
 			Am besten in einer Gemeinschaft mit Gleichgesinnten wo niemand mehr gezwungen wird arbeiten zu gehen."
 		}
 		Spacer{amount: 8}
-		Button {label: "UBUNTU" link: "page:ubuntu"}
+		Button {label: "Camp Eden" link: "page:campeden_copyright"}
 	}
 }
