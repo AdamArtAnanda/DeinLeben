@@ -57,7 +57,7 @@ Deployment {
   File { path: "spiel_sucht.sml" time: "2024.11.20 06.46.07" type: "page-de" }
   File { path: "spiel_einleitung.sml" time: "2024.11.22 09.49.37" type: "page-de" }
   File { path: "campeden_camp.sml" time: "2024.11.22 15.54.49" type: "page-de" }
-  File { path: "home.sml" time: "2024.12.03 15.16.28" type: "page-de" }
+  File { path: "home.sml" time: "2025.03.24 23.35.21" type: "page-de" }
   File { path: "campeden_beginn.sml" time: "2024.11.22 15.54.44" type: "page-de" }
   File { path: "campeden_mitmachen.sml" time: "2024.11.22 15.55.01" type: "page-de" }
   File { path: "spiel_regeln.sml" time: "2024.11.19 06.14.46" type: "page-de" }
