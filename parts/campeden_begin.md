@@ -32,17 +32,17 @@ Der kleine Junge fragte nach: „Warum haben die euch das Land denn einfach wegg
   
 Die Kinder lauschten meinen Worten, als wenn ich ihnen gerade ein Märchen erzählen würde. Ich kann mir vorstellen, das all dies sehr befremdlich und aber auch spannend für die Kinder sein muss.  
   
-„Hatten denn früher alle Apfelbäume, so dass sie ihre Äpfel verkaufen konnten?“, will ein Mädchen wissen.  
+„Hatten denn früher alle Apfelbäume, sodass sie ihre Äpfel verkaufen konnten?“, will ein Mädchen wissen.  
   
-„Nein, ich sagte ja bereits, daß das Land den anderen Menschen gehörte. Man konnte selber Land kaufen, aber dafür brauchte man ganz viel Geld. Um früher Geld zu verdienen musste man arbeiten gehen. Arbeiten bedeutete, das wir von Morgens, bevor die Sonne aufging zur unserer Arbeitsstelle gehen oder fahren mussten, dort haben wir dann Dinge für die anderen Menschen gemacht und durften dann wieder nach Hause fahren, wenn die Sonne untergegangen ist.“  
+„Nein, ich sagte ja bereits, dass das Land den anderen Menschen gehörte. Man konnte selber Land kaufen, aber dafür brauchte man ganz viel Geld. Um früher Geld zu verdienen, musste man arbeiten gehen. Arbeiten bedeutete, das wir von Morgens, bevor die Sonne aufging zur unserer Arbeitsstelle gehen oder fahren mussten, dort haben wir dann Dinge für die anderen Menschen gemacht und durften dann wieder nach Hause fahren, wenn die Sonne untergegangen ist.“  
   
 „Du willst uns doch einen Bären aufbinden.“, sagt eines der Kinder.  
   
-„Nein, das war damals wirklich so. Zugegebenermaßen haben nicht alle Menschen in Werkstätten gearbeitet sondern durften draußen in der Sonne arbeiten. Das war aber auch nicht so schön, weil man durfte da zum Beispiel schwere Dinge schleppen und schwitzte ganz doll. Einige hatten es besser, sie durften andere rumkommandieren und ihnen sagen, was sie zu tun haben, aber dafür mußten diese Menschen sich lange, lange immer wieder so komische Geschichten von noch anderen Menschen anhören, bis sie es geglaubt hatten. Das nannte man früher studieren.“  
+„Nein, das war damals wirklich so. Zugegebenermaßen haben nicht alle Menschen in Werkstätten gearbeitet, sondern durften draußen in der Sonne arbeiten. Das war aber auch nicht so schön, weil man durfte da zum Beispiel schwere Dinge schleppen und schwitzte ganz doll. Einige hatten es besser, sie durften andere herumkommandieren und ihnen sagen, was sie zu tun haben, aber dafür mussten diese Menschen sich lange, lange immer wieder so komische Geschichten von noch anderen Menschen anhören, bis sie es geglaubt hatten. Das nannte man früher studieren.“  
   
 „Mein Oma hat mal gesagt, dass sie studiert hat, weil sie keine Lust hatte zu arbeiten.“, kommt aus einem der Jungs geschossen. Alle lachten.  
   
-„Ja arbeiten war nicht wirklich schön. Aber keiner von uns kannte etwas anderes. Als ich damals krank wurde, weil ich so viel gearbeitet hatte, wurde mir klar, daß es so nicht weiter gehen kann. Ich erinnerte mich an meine Kindheit. Da hatten wir 3 Apfelbäume in unserem Garten. Wenn ich Hunger hatte, dann habe ich mir einen Apfel gepflückt. Damals wurde mir klar, dass es auch ein Leben ohne Arbeit geben kann.“  
+„Ja arbeiten war nicht wirklich schön. Aber keiner von uns kannte etwas anderes. Als ich damals krank wurde, weil ich so viel gearbeitet hatte, wurde mir klar, dass es so nicht weiter gehen kann. Ich erinnerte mich an meine Kindheit. Da hatten wir 3 Apfelbäume in unserem Garten. Wenn ich Hunger hatte, dann habe ich mir einen Apfel gepflückt. Damals wurde mir klar, dass es auch ein Leben ohne Arbeit geben kann.“  
   
 „Muss ich auch arbeiten?“, fragt ein kleines Mädchen.  
   
@@ -52,8 +52,8 @@ Die Kinder lauschten meinen Worten, als wenn ich ihnen gerade ein Märchen erzä
   
 „Ja, in einigen Ländern haben Menschen jeden Tag gearbeitet. Sogar Kinder in eurem Alter haben das getan. Bei uns Zuhause hat man allerdings nur 5 Tage die Woche gearbeitet. Jeden Tag 8 Stunden. Wir hatten also noch etwas mehr freie Zeit und deshalb kam es uns auch gar nicht so schlimm vor, sonst hätten wir schon eher rebelliert.“  
   
-Das schlimme war, jeder Mensch musste irgendwie Geld verdienen, um sich Essen, Miete usw. leisten zu können. Und wenn man keine Arbeit gefunden hat. Dann musste man anderen Menschen etwas wegnehmen, damit man nicht sterben musste. Zusätzlich hat die Regierung Unsicherheit durch unsichere Arbeitsplätze und zuallerletzt sogar durch Sanktionierung von Sozialhilfe, erzeugt, weil ängstliche Bürger sind besser kontrollierbar. Das hatte mit Demokratie nicht mehr viel zu tun. Und weil jeder Geld verdienen musste, wurde Dinge hergestellt, die kein Mensch benötigt. Und damit die Menschen das unnütze Zeugs gekauft haben, hat man ständig auf sie eingeredet und überall Schilder aufgestellt, wo drauf stand: Du musst unbedingt meine Dinge kaufen, weil ohne meine Dinge bist du ein Niemand. Und viele Menschen haben das irgendwann geglaubt, weil jeder gesagt hat, ja kauf das. Immer und immer wieder. Die Menschen haben sogar Geld für Gift ausgegeben und es zum Beispiel als Rauch eingeatmet oder getrunken. Nur weil man ihnen gesagt hat, daß das jeder macht und daß das dazu gehört.“  
+Das schlimme war, jeder Mensch musste irgendwie Geld verdienen, um sich Essen, Miete usw. leisten zu können. Und wenn man keine Arbeit gefunden hat. Dann musste man anderen Menschen etwas wegnehmen, damit man nicht sterben musste. Zusätzlich hat die Regierung Unsicherheit durch unsichere Arbeitsplätze und zuallerletzt sogar durch Sanktionierung von Sozialhilfe, erzeugt, weil ängstliche Bürger sind besser kontrollierbar. Das hatte mit Demokratie nicht mehr viel zu tun. Und weil jeder Geld verdienen musste, wurde Dinge hergestellt, die kein Mensch benötigt. Und damit die Menschen das unnütze Zeugs gekauft haben, hat man ständig auf sie eingeredet und überall Schilder aufgestellt, wo draufstand: Du musst unbedingt meine Dinge kaufen, weil ohne meine Dinge bist du ein Niemand. Und viele Menschen haben das irgendwann geglaubt, weil jeder gesagt hat, ja kauf das. Immer und immer wieder. Die Menschen haben sogar Geld für Gift ausgegeben und es zum Beispiel als Rauch eingeatmet oder getrunken. Nur weil man ihnen gesagt hat, dass das jeder macht und dass das dazu gehört.“  
   
-„Ich glaube ich kann heute Nacht nicht gut schlafen.“, sagt eines der Mädchen.  
+„Ich glaube, ich kann heute Nacht nicht gut schlafen.“, sagt eines der Mädchen.  
   
 „Ja“, begegnete ich, „Wir machen auch besser Schluss für heute.“  
