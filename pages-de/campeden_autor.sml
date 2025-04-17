@@ -1,8 +1,8 @@
 Page {
     title: "Autor"
     padding: "8"
-    scrollable: "true"
-	
+    scrollable: true
+    
     Column {
         padding: "8"
         
